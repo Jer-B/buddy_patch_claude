@@ -1,6 +1,7 @@
 #!/bin/bash
 # =============================================================================
 # Claude Code Buddy Patcher — "If the game won't drop it, mod the loot table."
+# https://github.com/Jer-B/buddy_patch_claude
 #
 # Patches the companion generation function in cli.js to force a custom build.
 # Only works with npm-installed Claude Code (not native binary installs).

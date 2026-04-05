@@ -1,7 +1,11 @@
 
-<img src="buddy_stats.png" width="320" />
+<p align="center">
+  <img src="buddy_stats.png" width="320" />
+</p>
 
-<img src="buddy_before_after_1.png" width="637" />
+<p align="center">
+  <img src="buddy_before_after_1.png" width="800" />
+</p>
 
 
 # Claude Code Buddy / Companion - Customization Guide
