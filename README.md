@@ -11,9 +11,13 @@
 # Claude Code Buddy / Companion - Customization Guide
 
 > **Date:** 2026-04-05
+> 
 > **Author:** Jer-B
+> 
 > **Purpose:** Document the undocumented companion ("Buddy") feature in Claude Code, its procedural generation system, and how to override it.
+> 
 > **Motivation:** Life is chaos, wisdom is rolling with it. Also, nobody should be stuck with a common duck when legendary shiny dragons exist.
+> 
 > **Disclaimer:** This is playing-around research. Your mileage, your dragon, your problem.
 
 
