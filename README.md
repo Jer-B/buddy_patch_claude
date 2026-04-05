@@ -412,3 +412,11 @@ Then re-run the script — it will create a clean backup on first run.
 - Consider a proper plugin/theme system instead of forcing users to patch minified source
 
 ---
+
+## 🧁 Delivered with a smile
+
+If this saved you from a life of common ducks and cats, send some dust. Will fuel coffee, not conflicts ☕🕊️
+
+`0xd0e7FD17c0C637396f0628E9EaF10a4D3F3e09A6` (EVM)
+
+---
